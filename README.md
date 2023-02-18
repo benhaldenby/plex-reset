@@ -6,7 +6,7 @@ Clone repo and run
 
     install.sh
 
-Then automate running the script, maybe with a cron job:
+Then automate running the script, perhaps daily with a cron job
 
     crontab -e
     00 06 * * * /usr/local/bin/plex-reset.sh
