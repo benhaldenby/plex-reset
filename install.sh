@@ -1,3 +1,3 @@
-# PlexReset install script
-cp plex-reset.sh /usr/local/bin/plex-reset.sh
-chmod +x /usr/local/bin/plex-reset.sh
+# ResetPlex install script
+cp resetplex.sh /usr/local/bin/resetplex.sh
+chmod +x /usr/local/bin/resetplex.sh
