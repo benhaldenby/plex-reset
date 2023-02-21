@@ -1,4 +1,4 @@
-# PlexReset
+# ResetPlex
 
 Simple batch script to fix problems with external volumes randomly unmounting, renaming themselves and screwing with Plex Media Server.
 
